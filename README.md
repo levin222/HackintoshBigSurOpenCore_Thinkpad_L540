@@ -1,6 +1,6 @@
 
 
-Everything works except sleep.
+Everything works except sleep and camera.
 
 CPU : Intel Core i5-4300M 
 Chipset : QM87  
