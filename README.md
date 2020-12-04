@@ -1,6 +1,6 @@
 
 
-Everything works except sleep and camera.
+Everything works except sleep and airdrop.
 
 CPU : Intel Core i5-4300M 
 Chipset : QM87  
